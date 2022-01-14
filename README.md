@@ -40,11 +40,11 @@ The user will need to clone the repository onto their system, and then ensure th
 ## Application Video
 For a video demonstrating the application please click:
 
-For Categories demo: [Watch Video](https://drive.google.com/file/d/1RIQcof2ubuGr9Qv4oYMenLwcMp75Yv7x/view)
+* For Categories demo: [Watch Video](https://drive.google.com/file/d/1RIQcof2ubuGr9Qv4oYMenLwcMp75Yv7x/view)
 
-For Products demo: [Watch Video](https://drive.google.com/file/d/1Fgho97FTuRGL6phJkV0waTrLDc40SUyI/view)
+* For Products demo: [Watch Video](https://drive.google.com/file/d/1Fgho97FTuRGL6phJkV0waTrLDc40SUyI/view)
 
-For Tags demo: [Watch Video](https://drive.google.com/file/d/10S8_xZlwId3MgkMwmk__x46AOeBD-9pe/view)
+* For Tags demo: [Watch Video](https://drive.google.com/file/d/10S8_xZlwId3MgkMwmk__x46AOeBD-9pe/view)
 
 ## Credits
 None
