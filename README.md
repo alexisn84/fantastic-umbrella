@@ -19,7 +19,6 @@
 - [NPM Packages](#npm-packages)
 - [Installation](#installation)
 - [Application Video](#application-video)
-- [Images](#images)
 - [Credits](#credits)
 - [Contribution](#contribution)
 - [Testing](#testing)
@@ -39,10 +38,10 @@
 The user will need to clone the repository onto their system, and then ensure the NPM packages listed above are installed. Please see each package's link for documentation and installation directions/code. Once completed, the user should run MySQL to use `source db/schema.sql` to populate the test info previously programmed. After exiting, the user may then run `npm start`; which will allow the user to go thru the prompts to use the application. 
 
 ## Application Video
-For a video demonstrating the application please click: [Watch Video]()
-
-## Images
-<img src="enter link here">
+For a video demonstrating the application please click:
+For Categories demo: [Watch Video](https://drive.google.com/file/d/1RIQcof2ubuGr9Qv4oYMenLwcMp75Yv7x/view)
+For Products demo: [Watch Video](https://drive.google.com/file/d/1Fgho97FTuRGL6phJkV0waTrLDc40SUyI/view)
+For Tags demo: [Watch Video](https://drive.google.com/file/d/10S8_xZlwId3MgkMwmk__x46AOeBD-9pe/view)
 
 ## Credits
 None
